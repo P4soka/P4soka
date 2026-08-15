@@ -5,7 +5,7 @@ Um pouco sobre mim:
 
 * Sou **Motion Designer** com especialidade em MMV.
 
-* Sou um **Full-Stack Developer** aprimorando cada vez mais as minhas  habilidades.
+* Sou um **Desenvolvedor Full-Stack ** aprimorando cada vez mais as minhas  habilidades.
 
 * Atualmente estou cursando **Analise e Desenvolvimento de Sistemas**.
 
