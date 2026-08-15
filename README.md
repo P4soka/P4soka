@@ -31,7 +31,9 @@ Um pouco sobre mim:
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h2>Projects</h2>
+      <div align="center">
+        <h2>Idiomas</h2>
+      </div>  
 <span>
 <div align="center">
 
