@@ -43,7 +43,6 @@ Um pouco sobre mim:
  🇪🇸 **Spanhol** | ▰▰▰▰▰▰▰▱▱▱ | **Intermediario** |
  🇬🇧 **ingles** | ▰▰▰▰▰▰▱▱▱▱ | **Intermediario** |
 
-
 </div>
 </span>
     </td>
