@@ -9,9 +9,7 @@ Um pouco sobre mim:
 
 ##
 
-<br clear="both">
 <p align="left">
-
 <h2> Linguagens e Tecnologias </h2>
   
 
