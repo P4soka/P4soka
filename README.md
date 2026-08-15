@@ -11,6 +11,8 @@ Um pouco sobre mim:
 
 <br clear="both">
 <p align="left">
+
+<h2> Linguagens e Tecnologias </h2>
   
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
