@@ -39,6 +39,7 @@ Um pouco sobre mim:
 <span>
 <div align="center">
 <br></br>
+<br></br>
 
  Language | Fluency Level | Proficiency |
 :---:|:---:|:---:|
