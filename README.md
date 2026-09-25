@@ -59,7 +59,7 @@ Um pouco sobre mim:
   <a href="mailto:P4soka.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
       </div>
       <br/> <br/>
-      <img src="https://tse2.mm.bing.net/th/id/OIP.37L3O3quQYROA6Z6TodLwwHaFN?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" />
+      <img src="https://giffiles.alphacoders.com/171/171450.gif" />
    <p align="center">
       
 </p>
