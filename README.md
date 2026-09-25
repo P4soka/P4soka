@@ -39,6 +39,7 @@ Um pouco sobre mim:
 <div align="center">
 <br></br>
 <br></br>
+<br></br>
 
  Language | Fluency Level | Proficiency |
 :---:|:---:|:---:|
@@ -58,7 +59,7 @@ Um pouco sobre mim:
   <a href="mailto:P4soka.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
       </div>
       <br/> <br/>
-      <img src="https://th.bing.com/th/id/R.dfb2f73b7aae41844e03a67a4e874bc3?rik=cyUGPF2WUJyHAg&pid=ImgRaw&r=0" />
+      <img src="https://tse2.mm.bing.net/th/id/OIP.37L3O3quQYROA6Z6TodLwwHaFN?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" />
    <p align="center">
       
 </p>
